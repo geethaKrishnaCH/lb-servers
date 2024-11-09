@@ -1,10 +1,10 @@
 package me.easylearnz;
 
-import com.sun.net.httpserver.HttpServer;
-
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.InetSocketAddress;
+
+import com.sun.net.httpserver.HttpServer;
 
 public class Server3 {
     public static void main(String[] args) throws IOException {
